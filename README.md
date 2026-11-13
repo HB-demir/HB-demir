@@ -17,18 +17,6 @@ Compares the real "net price" (product + delivery + service fee + campaigns) of 
 **DoubleCheck** · *2025–2026*<br>
 Explainable 0–100 clinical health score built on 210K+ anonymized check-up records. Every score is traceable to clinical guidelines (ADA, KDIGO, ACC/AHA, WHO, AASLD) across 68 lab thresholds. Reached **0.879 AUC** on a chronological test set, versus 0.636 for the best LLM baseline. Python, scikit-learn, FastAPI, Pydantic, Parquet.
 
-**[nlp-pipeline](https://github.com/HB-demir/nlp-pipeline)**<br>
-NLP pipeline for clinical text processing.
-
-**MoodRipple**<br>
-Multimodal detector for the emotional impact of social media content, built in a 6-hour hackathon.
-
-**QCM Impedance Spectroscopy Analysis**<br>
-Numerical methods project written up as an IEEE-format paper: PLS model with R² = 0.9974.
-
-**[CheapMakeCheapEat](https://github.com/HB-demir/CheapMakeCheapEat)**<br>
-Recipe costing app that prices recipes with live market data.
-
 ---
 
 ### 💼 Experience
