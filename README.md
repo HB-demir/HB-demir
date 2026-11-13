@@ -11,22 +11,22 @@ Computer Engineering graduate (Acıbadem University, 2026) based in Istanbul, wo
 
 ### 🛠️ Featured projects
 
-**[BilYe Yemek](https://bilyeyemek.com)** · *ongoing*
+**[BilYe Yemek](https://bilyeyemek.com)** · *ongoing*<br>
 Compares the real "net price" (product + delivery + service fee + campaigns) of the same meal across Yemeksepeti, Trendyol Yemek, Migros Yemek and Tıkla Gelsin in all 39 districts of Istanbul. Scraper pipeline, Next.js frontend, nginx caching, blue/green deploys, Telegram monitoring and automated Instagram Reels.
 
-**DoubleCheck** · *2025–2026*
+**DoubleCheck** · *2025–2026*<br>
 Explainable 0–100 clinical health score built on 210K+ anonymized check-up records. Every score is traceable to clinical guidelines (ADA, KDIGO, ACC/AHA, WHO, AASLD) across 68 lab thresholds. Reached **0.879 AUC** on a chronological test set, versus 0.636 for the best LLM baseline. Python, scikit-learn, FastAPI, Pydantic, Parquet.
 
-**[nlp-pipeline](https://github.com/HB-demir/nlp-pipeline)**
+**[nlp-pipeline](https://github.com/HB-demir/nlp-pipeline)**<br>
 NLP pipeline for clinical text processing.
 
-**MoodRipple**
+**MoodRipple**<br>
 Multimodal detector for the emotional impact of social media content, built in a 6-hour hackathon.
 
-**QCM Impedance Spectroscopy Analysis**
+**QCM Impedance Spectroscopy Analysis**<br>
 Numerical methods project written up as an IEEE-format paper: PLS model with R² = 0.9974.
 
-**[CheapMakeCheapEat](https://github.com/HB-demir/CheapMakeCheapEat)**
+**[CheapMakeCheapEat](https://github.com/HB-demir/CheapMakeCheapEat)**<br>
 Recipe costing app that prices recipes with live market data.
 
 ---
